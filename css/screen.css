@@ -1,0 +1,17 @@
+body{
+    background-image: url("../img/JNTM.jpg")}
+    h1{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    }
+    h3{
+    text-align: center;
+    color:rgb(114, 114, 114)
+    }
+    p{
+    text-align: center;
+    color:rgb(114, 114, 114)
+    }
+    a{
+    color:aqua
+    }
